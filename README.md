@@ -11,7 +11,7 @@ Data source: <https://github.com/HerDataSam/redive_kr_db_diff/blob/master/srt_pa
 
 URL: <https://poincurry.github.io/priconne-shiritori-kor/>
 
-URL: <https://yakumoxanadu.github.io/priconne-shiritori-kor-2/>
+URL: <https://yakumoxanadu.github.io/priconne-shiritori-kor/>
 
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Completing the word catalog (100%) grants the following title as a reward:<br>
 ![Title](https://raw.githubusercontent.com/Expugn/priconne-shiritori/master/images/webpage/icon_emblem_11001041.png)
 
 ## How to Use
-1. Open the tool URL in a web browser (<https://expugn.github.io/priconne-shiritori/>)
+1. Open the tool URL in a web browser (<https://yakumoxanadu.github.io/priconne-shiritori/>)
 2. If you have existing progress already...
 
     1. Click `Open Word List`
