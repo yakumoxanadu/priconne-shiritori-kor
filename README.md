@@ -11,7 +11,7 @@ Data source: <https://github.com/HerDataSam/redive_kr_db_diff/blob/master/srt_pa
 
 URL: <https://poincurry.github.io/priconne-shiritori-kor/>
 
-URL: <https://yakumoxanadu.github.io/priconne-shiritori-kor/>
+URL: <https://github.com/poincurry/priconne-shiritori-kor>
 
 -------------------------------------------------------------------------------------------------------------------------------
 
