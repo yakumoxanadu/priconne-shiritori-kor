@@ -1,0 +1,215 @@
+.border {
+    border: dotted blue;
+}
+
+.centerTable {
+    margin: 0 auto;
+}
+
+body.background {
+    background-image: url("./../images/webpage/adv_mask_C.png");
+}
+
+h1.title {
+    text-align: center;
+}
+
+h2.title {
+    text-align: center;
+    margin-top: -25px;
+    letter-spacing: 3px;
+}
+
+p.footer {
+    text-align: right;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+span {
+	color: #FFFFFF;
+}
+
+img.footer {
+    height: 24px;
+    width: 24px;
+    position: relative;
+    top: 7px;
+}
+
+.pointer-cursor:hover {
+    cursor: pointer;
+}
+
+/* CSS FOR WORD SELECTION BUTTON START */
+button.word-selection-button {
+    max-width: 64px;
+    max-height: 64px;
+    min-width: 16px;
+    min-height: 16px;
+
+    border-radius: 7px;
+    outline: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img.word-image {
+    max-height: 64px;
+    max-width: 64px;
+    display: grid;
+
+    margin-left: -8px;
+    margin-top: -3px;
+}
+
+img.character-circle {
+    max-height: 33px;
+    display: grid;
+    position: relative;
+    bottom: 35px;
+    left: 22px;
+}
+
+div.end-character {
+    display: grid;
+    text-overflow: ellipsis;
+    font-weight: bold;
+
+    margin-top: -54px;
+    margin-right: 11px;
+
+    position: relative;
+    bottom: 6px;
+    left: 19px;
+}
+
+div.futsuyomi {
+    color: rgb(115, 175, 85) !important;
+}
+
+div.urayomi {
+    color: rgb(46, 169, 255) !important;
+}
+
+div.priconneyomi {
+    color: rgb(255, 127, 170) !important;
+}
+/* CSS FOR WORD SELECTION BUTTON END */
+
+/* IMAGE HIGHLIGHTS START */
+img.futsuyomi {
+    outline: 5px solid rgb(115, 175, 85);
+    outline-offset: -6px;
+}
+
+img.urayomi {
+    outline: 5px solid rgb(46, 169, 255);
+    outline-offset: -6px;
+}
+
+img.priconneyomi {
+    outline: 5px solid rgb(255, 127, 170);
+    outline-offset: -6px;
+}
+
+img.gold-outline {
+    outline: 5px solid gold;
+    outline-offset: -6px;
+}
+/* IMAGE HIGHLIGHTS END */
+
+/* CSS FOR WORD LIST START */
+img.word-list-image {
+    max-height: 48px;
+}
+
+img.complete {
+    max-height: 20px;
+    position: relative;
+    bottom: 10px;
+}
+
+div.word-list-text {
+    font-size: 24px;
+    text-shadow: 1px 1px 2px #000000;
+}
+/* CSS FOR WORD LIST END */
+
+/* CSS FOR LATEST SELECTION START */
+img.latest-selection-character-circle {
+    position: relative;
+    bottom: 73px;
+    left: 46px;
+}
+
+div.latest-selection-character {
+    font-weight: bolder;
+    font-size: 35px;
+
+    position: relative;
+    bottom: 137px;
+    left: 44px;
+}
+
+#latest-selection-text {
+    font-weight: bolder;
+    font-size: 24px;
+
+    position: relative;
+    bottom: 140px;
+}
+
+#latest-selection {
+    height: 220px;
+}
+/* CSS FOR LATEST SELECTION END */
+
+button.rush-mode-button {
+    max-width: 300px;
+}
+
+img.rush-mode-button {
+    max-width: 100px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.webpage-text {
+    color: aliceblue;
+    font-family: "Trebuchet MS", Arial, serif;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+hr {
+    border-top: 3px solid black;
+    border-radius: 3px
+}
+
+.low-opacity {
+    -webkit-filter: opacity(50%);
+    filter: opacity(50%);
+}
+.grayscale {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+
+.centerText {
+    text-align: center;
+}
+
+img.divider {
+    opacity: 0 !important;
+    box-shadow: 0 0 0 0, 0 0 0 0, 0 0 !important;
+    text-shadow: 0 0 0 !important;
+    width: 10px !important;
+    padding: 5px;
+}
+
+.text-outline {
+    text-shadow:
+            -1px -1px 0 #000,
+            1px -1px 0 #000,
+            -1px 1px 0 #000,
+            1px 1px 0 #000;
+}
