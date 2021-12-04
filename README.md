@@ -31,7 +31,7 @@ Completing the word catalog (100%) grants the following title as a reward:<br>
 ![Title](https://raw.githubusercontent.com/Expugn/priconne-shiritori/master/images/webpage/icon_emblem_11001041.png)
 
 ## How to Use
-1. Open the tool URL in a web browser (<https://yakumoxanadu.github.io/priconne-shiritori/>)
+1. Open the tool URL in a web browser (<https://yakumoxanadu.github.io/priconne-shiritori-kor/>)
 2. If you have existing progress already...
 
     1. Click `Open Word List`
